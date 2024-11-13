@@ -1,0 +1,2 @@
+/target
+# Cargo.lock not ignored ensuring that all developers and CI systems use the exact same dependency versions, which helps avoid discrepancies in behavior across different environments
